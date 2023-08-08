@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/techy/static/css/main.77bfde6e.css",
+    "main.js": "/techy/static/js/main.286ec8bd.js",
+    "static/media/background.jpg": "/techy/static/media/background.764c542f19e12e322696.jpg",
+    "static/media/footer.jpg": "/techy/static/media/footer.93a812f70af95a735caa.jpg",
+    "static/media/4.jpg": "/techy/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/fweb.png": "/techy/static/media/fweb.8652521e56477b1ff247.png",
+    "static/media/3.jpg": "/techy/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "index.html": "/techy/index.html",
+    "main.77bfde6e.css.map": "/techy/static/css/main.77bfde6e.css.map",
+    "main.286ec8bd.js.map": "/techy/static/js/main.286ec8bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bfde6e.css",
+    "static/js/main.286ec8bd.js"
+  ]
+}
